@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+}
+
+body{
+    background-color: #f0f0f0;
+}
+
+main{
+    width: 50%;
+    display: flex;
+    border-style: solid;
+    background-color: blue;
+    
+}
+
+.Profile-pic{
+    width: 50%;
+    display: flex;
+    
+}
+
+.name{
+  
+    width: 50%;
+}
+
+a{
+    color: #fff;
+}
